@@ -1,6 +1,6 @@
-# totshop_v1
+# Authentication Screen UI
 
-A new Flutter application.
+Screenshots
 
 ## Getting Started
 
